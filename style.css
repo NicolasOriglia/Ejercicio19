@@ -1,0 +1,16 @@
+.section {
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo{
+    background-color:white;
+    color: black;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo.dragging{
+    opacity: .3;
+}
